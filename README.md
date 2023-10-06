@@ -82,7 +82,7 @@ The API accepts and returns JSON data in the following format:
 
 **Video Demo:**
 
-![](fiber.gif)
+[Clikc Here](https://drive.google.com/file/d/1HkMroVq7HZ1iOn5TkOraciAyV1M5N1J3/view?usp=sharing) to watch video demo
 
 ## Contributing
 
