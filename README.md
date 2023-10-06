@@ -80,6 +80,10 @@ The API accepts and returns JSON data in the following format:
 }
 ```
 
+**Video Demo:**
+
+![](fiber.gif)
+
 ## Contributing
 
 Feel free to contribute to this project by creating issues or submitting pull requests.
