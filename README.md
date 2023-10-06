@@ -2,7 +2,7 @@
 
 Fiber HRMS (Human Resource Management System) is a simple RESTful API built with Go and MongoDB for managing employee records. This API allows you to perform basic CRUD (Create, Read, Update, Delete) operations on employee data.
 
-## Prerequisites
+## Pre-requisites
 
 To run this application, you need to have Go and MongoDB installed on your system.
 
