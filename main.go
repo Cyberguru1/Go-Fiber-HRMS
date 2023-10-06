@@ -86,6 +86,7 @@ func newEmployee(c *fiber.Ctx) error {
 	// employee.ID = fmt.Sprintf("%08x", rand.Intn(1<<32-1))
 	employee.ID = ""
 
+
 	insertResult, err := collection.InsertOne(c.Context(), employee)
 
 	if err != nil {
@@ -178,6 +179,7 @@ func main() {
 	// serve the static folder
 	app.Static("/", "./static")
 
+	// defining routes
 	app.Get("/employee", getEmployee)
 	app.Post("/employee", newEmployee)
 	app.Put("/employee/:id", updateEmployee)

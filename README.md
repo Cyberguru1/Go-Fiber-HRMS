@@ -11,12 +11,12 @@ To run this application, you need to have Go and MongoDB installed on your syste
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/fiber-hrms.git
+   git clone https://github.com/Cyberguru1/Go-Fiber-HRMS.git
    ```
 2. Navigate to the project directory:
 
    ```bash
-   cd fiber-hrms
+   cd Go-Fiber-HRMS
    ```
 3. Install the required dependencies using:
 
